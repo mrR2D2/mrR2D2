@@ -11,9 +11,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrr2d2&hide_border=true&layout=compact" align="center" />
   <img src="https://github-readme-stats.vercel.app/api?username=mrR2D2&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" align="center" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrR2D2&style=flat-square" align="center" />
-</div> 
