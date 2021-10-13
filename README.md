@@ -10,7 +10,6 @@ You can reach me via:
 
 <br/>
 
-#### Some statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrR2D2&hide_border=true&layout=compact" align="center" />
   <img src="https://github-readme-stats.vercel.app/api?username=mrR2D2&show_icons=true&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" align="center" />
